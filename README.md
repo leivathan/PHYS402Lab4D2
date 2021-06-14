@@ -1,2 +1,4 @@
 # PHYS402Lab4D2
 Code for Physics 402 (Optics Lab) Lab 4 (D2- Fresnel Diffraction)
+
+The purpose of this lab was to view the quantum nature of light through different types of diffraction patterns. My partner (Kendall Graff) and I worked in-lab on obtaining the data and remotely worked on the report together. The Data and the code that creates the graphs from the data (Plots_From_Data.ipynb) are located in the Data folder. The graph that creates two of the simulations from equations (Graphs_for_The_Fresnel_Diffraction_Simulation) is on the upper level, but two of the other simulations (the wire and the semi-infinite plane) are created from premade data in the Data folder and are thus created in the code that creates grpahs from the data. The final report (PHYS_402_Lab4_D2_.pdf) is also on the upper level. The class handout has been scanned and included on the upper level as well (PHYS402Lab4D2Handout).
